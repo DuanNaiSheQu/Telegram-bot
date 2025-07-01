@@ -338,4 +338,7 @@ grep "PERFORMANCE" logs/bot.log
 
 ---
 
+断奶社区@DuanNaiSheQu ｜程序开发搭建｜php二开｜vue｜uniapp｜程序源码｜源码出售
+由断奶telegram：@duannai 开发
+
 ⭐ 如果这个项目对你有帮助，请给它一个星标！
