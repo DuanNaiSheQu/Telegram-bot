@@ -325,8 +325,8 @@ grep "PERFORMANCE" logs/bot.log
 
 - **问题反馈**: [GitHub Issues](https://github.com/your-username/telegram-bot-platform/issues)
 - **功能建议**: [GitHub Discussions](https://github.com/your-username/telegram-bot-platform/discussions)
-- **技术支持**: support@yourplatform.com
-- **Telegram群组**: @your_support_group
+- **技术支持**:telegram： @duannai
+- **Telegram群组**: 断奶社区@DuanNaiSheQu 
 
 ## 🙏 致谢
 
